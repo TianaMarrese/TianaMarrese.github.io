@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-![KM Plot](/images/KM_Plot_NP.jpeg|width = 50)
+![KM Plot](/images/KM_Plot_NP.jpeg | width = 50)
 
 I am a PhD candidate at the University of Pennsylvania's School of Social Policy and Practice. The core of my work asks how and why communities engage in prosocial behaviors across space and time. I am particularly interested in answering this question through quantitative, macro-level analyses that place an emphasis on paid and unpaid (volunteer) labor in the nonprofit sector. Within my research, I focus on the implications of this behavior relative to market outcomes and its subsequent meaning for practitioners.
 
