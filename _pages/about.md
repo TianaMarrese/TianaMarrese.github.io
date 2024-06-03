@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<img src = "/images/KM_Plot_NP.jpeg" width = "250" height = "150">
+<img src = "/images/KM_Plot_NP.jpeg" width = "500" height = "300">
 
 ![KM Plot](/images/KM_Plot_NP.jpeg | width = 50)
 
