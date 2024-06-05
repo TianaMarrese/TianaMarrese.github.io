@@ -1,12 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "The Implications of the COVID-19 Pandemic on Recruitment and Retention of Volunteers and Donors in the US."
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+permalink: 
+excerpt: 'This article details the experiences of those entrusted with the acquisition and retention of time and money for human service organizations during the pandemic.'
+date: 2023-07-09
+venue: 'Human Service Organizations: Management, Leadership & Governance'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'https://doi.org/10.1080/23303131.2023.2232844'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
