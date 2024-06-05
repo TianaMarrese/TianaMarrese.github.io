@@ -16,7 +16,7 @@ main:
 #    url: /year-archive/
     
   - title: "CV"
-    url: 'http://TianaMarrese.github.io/files/CV_Marrese_PennWebsite.pdf' #/cv/
+    url: 'http://TianaMarrese.github.io/files/CV_Marrese.pdf' #/cv/
   
   - title: "Guide"
     url: /markdown/
