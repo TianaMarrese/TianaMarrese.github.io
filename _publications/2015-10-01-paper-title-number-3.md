@@ -1,13 +1,11 @@
 ---
-title: "Paper Title Number 3"
+title: "Who Volunteers at Refugee and Immigrant Nonprofits? Two Studies Exploring Volunteering at Nonprofits Serving Refugees and Immigrants."
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+excerpt: 'We explore the differences between individuals that volunteered in refugee and immigrant domains relative to volunteers who engaged in other nonprofit domains.'
+date: 2024-06-05
+venue: 'Nonprofit Policy Forum'
+paperurl: ''
+citation: 'Ferris, A., Marrese, T., Cnaan, R. A., Choi, D., & Handy, F. (Forthcoming). Who Volunteers at Refugee and Immigrant Nonprofits? Two Studies Exploring Volunteering at Nonprofits Serving Refugees and Immigrants. <i> Nonprofit Policy Forum.</i>'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Nonprofit organizations are an important facet of civic life in US society as they provide critical infrastructure for enhancing civic engagement and directly supporting individuals and communities. In the United States, social care for refugees and immigrants is primarily the province of nonprofits. Our research explores the types of volunteers that assist refugees and immigrants in the US. We report findings from two independent yet complementary studies. Study 1 offers descriptive insight into the individuals who volunteered for refugee and immigrant organizations before and during the COVID-19 pandemic, while Study 2 provides a deeper understanding of how individuals are attracted to this line of volunteering, including their perceptions of citizenship and social justice, their motivations, and what kept them engaged in volunteering.
