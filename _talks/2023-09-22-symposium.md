@@ -1,10 +1,10 @@
 ---
-title: "Talk 2 on Relevant Topic in Your Field"
+title: "Nonprofit Wage Disparity and the Call for Accessible Childcare""
 collection: talks
 type: "Talk"
 permalink: /talks/2014-02-01-talk-2
-venue: "London School of Testing"
-date: 2014-02-01
+venue: "12th Symposium on Public Policy for Nonprofits"
+date: 2023-09-22
 location: "London, UK"
 ---
 
