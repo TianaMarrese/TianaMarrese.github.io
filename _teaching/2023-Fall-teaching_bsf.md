@@ -1,7 +1,7 @@
 ---
 title: "TA: Philanthropy and Health"
 collection: teaching
-type: "Undergradtuate"
+type: "Undergradtuate course"
 permalink: /teaching/2023-Fall-teaching-bsf
 venue: "University of Pennsylvania, School of Arts and Sciences"
 date: 2023-09-01
