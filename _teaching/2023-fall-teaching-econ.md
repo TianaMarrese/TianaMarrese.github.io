@@ -8,13 +8,5 @@ date: 2023-09-01
 location: "Philadelphia, PA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+The primary goal of this course was an examination of the various aspects of human behavior in the context of organizational and institutional life from an economic perspective. TA responsibilities for this course included leading one class and grading work. 
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
