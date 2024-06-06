@@ -8,13 +8,4 @@ date: 2024-05-28
 location: "Co-Instructor: Dr. Jeff Hornstein"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+This course explores the rise and fall of Philadelphia's manufacturing economy, the racial and gender dynamics of its employment ecosystem, and contemporary strategies to create a sustainable local economy. Analysis of this city and its vibrant history is accomplished through the investigation of relevant texts, lively in-class discussions, and exploration of public data tools. 
