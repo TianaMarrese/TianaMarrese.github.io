@@ -2,7 +2,7 @@
 title: "12th Symposium on Public Policy for Nonprofits"
 collection: talks
 type: "Talk"
-permalink:
+permalink: /talks/2014-02-01-talk-2
 venue: "Nonprofit Wage Disparity and the Call for Accessible Childcare""
 date: 2022-09-22
 location: "Online"
