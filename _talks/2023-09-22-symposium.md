@@ -2,7 +2,7 @@
 title: "Nonprofit Wage Disparity and the Call for Accessible Childcare""
 collection: talks
 type: "Talk"
-permalink: /talks/2023-09-22-symposium
+permalink: /talks/2023-09-22-symposium.md
 venue: "12th Symposium on Public Policy for Nonprofits"
 date: 2023-09-22
 location: "London, UK"
