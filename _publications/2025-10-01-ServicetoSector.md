@@ -1,8 +1,8 @@
 ---
 title: "From Service to Sector: Understanding Pathways into Nonprofit and Public Sector Employment"
 collection: publications
-excerpt: 'This paper explores the differences between individuals that volunteered in refugee and immigrant domains relative to volunteers who engaged in other nonprofit domains.'
-date: 2024-06-05
+excerpt: 'It is possible that early-adulthood volunteering may serve as a signal to locate workers who trend toward and thrive in such work. If further research validates this, practitioners could more easily locate individuals who preference a nonprofit setting by looking for such a signal. Alternatively, our findings may validate current practices that exist in nonprofit employment. '
+date: 2025-10-01
 venue: 'Nonprofit and Voluntary Sector Quarterly'
 paperurl: ''
 citation: 'Marrese, T. & Handy, F. (Forthcoming). From Service to Sector: Understanding Pathways into Nonprofit and Public Sector Employment. <i> Nonprofit and Voluntary Sector Quarterly.</i>'
