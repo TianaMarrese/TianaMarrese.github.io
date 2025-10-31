@@ -1,5 +1,5 @@
 ---
-title: "Volunteering Under Crisis: How Resource Perceptions Relates to Formal and Informal Civic Participation Before and During COVID-19"
+title: "Volunteering Under Crisis: How Resource Perceptions Relate to Formal and Informal Civic Participation Before and During COVID-19"
 collection: publications
 excerpt: 'First, we add to theoretical discussions on resource theory and suggest that the valuation of resources is dependent on external and internal perceptions of these variables. Secondly, we complement this theory by methodologically giving equal attention to recording individuals’ formal and informal activities.'
 date: 2025-10-15
