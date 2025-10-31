@@ -1,7 +1,7 @@
 ---
 title: "From Service to Sector: Understanding Pathways into Nonprofit and Public Sector Employment"
 collection: publications
-excerpt: 'It is possible that early-adulthood volunteering may serve as a signal to locate workers who trend toward and thrive in such work. If further research validates this, practitioners could more easily locate individuals who preference a nonprofit setting by looking for such a signal. Alternatively, our findings may validate current practices that exist in nonprofit employment. '
+excerpt: 'This study adds to extant literature by hypothesizing that early-adulthood volunteering serves as a pathway for emerging-career nonprofit and public employment.'
 date: 2025-10-01
 venue: 'Nonprofit and Voluntary Sector Quarterly'
 citation: 'Marrese, T. & Handy, F. (2025). From Service to Sector: Understanding Pathways into Nonprofit and Public Sector Employment. <i> Nonprofit and Voluntary Sector Quarterly.</i>'
