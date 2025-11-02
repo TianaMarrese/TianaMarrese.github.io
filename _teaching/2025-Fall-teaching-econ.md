@@ -2,7 +2,7 @@
 title: "Economics for Public Administration"
 collection: teaching
 type: "Graduate course"
-permalink: '[SPAA Catalog](https://spaa.newark.rutgers.edu/academics/courses/economics-public-administration)'
+permalink: 'https://spaa.newark.rutgers.edu/academics/courses/economics-public-administration'
 venue: "Rutgers University-Newark, School of Public Affairs and Administration"
 date: 2025-09-01
 location: "In Person"
