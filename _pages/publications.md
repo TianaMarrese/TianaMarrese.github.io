@@ -74,7 +74,7 @@ author_profile: true
 </li>
 
 <li>
-  <span class="pub-title"><a href="/https://tianamarrese.github.io/publications/">Continuity and Change: Students' Environmental Practices from Home to Campus</a></span><br>
+  <span class="pub-title"><a href="https://tianamarrese.github.io/publications/">Continuity and Change: Students' Environmental Practices from Home to Campus</a></span><br>
   <span class="pub-coauthors">with Alex Venth, A. Stefanie Ruiz, and Femida Handy</span><br>
   <span class="pub-venue">Journal of Environmental Education,</span> <span class="pub-year">Forthcoming.</span><br>
 </li>
