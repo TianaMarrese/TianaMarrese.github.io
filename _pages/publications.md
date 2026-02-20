@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 <style>
-/* Clean publication list styling inspired by alexreesjones.github.io */
 .pub-list {
   list-style: none;
   padding: 0;
@@ -86,7 +85,7 @@ author_profile: true
 <li>
   <span class="pub-title">From Service to Sector: Understanding Pathways into Nonprofit and Public Sector Employment</span><br>
   <span class="pub-coauthors">with Femida Handy</span><br>
-  <span class="pub-venue">Nonprofit and Voluntary Sector Quarterly,</span> <span class="pub-year">2025.</span>
+  <span class="pub-venue">Nonprofit and Voluntary Sector Quarterly,</span> <span class="pub-year">2025.</span><br>
     <span class="pub-links">
     <a href="https://doi.org/10.1177/08997640251386741">Journal Webpage</a>
   </span>
