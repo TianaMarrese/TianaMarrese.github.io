@@ -83,7 +83,7 @@ author_profile: true
 </li>
 
 <li>
-  <span class="pub-title">From Service to Sector: Understanding Pathways into Nonprofit and Public Sector Employment</span><br>
+  <span class="pub-title"><a href="/files/service_to_sector.pdf">From Service to Sector: Understanding Pathways into Nonprofit and Public Sector Employment</span><br>
   <span class="pub-coauthors">with Femida Handy</span><br>
   <span class="pub-venue">Nonprofit and Voluntary Sector Quarterly,</span> <span class="pub-year">2025.</span><br>
     <span class="pub-links">
