@@ -102,7 +102,7 @@ author_profile: true
 
 <li>
   <span class="pub-title">Volunteering Under Crisis: How Resource Perceptions Relate to Formal and Informal Civic Participation Before and During COVID-19</span><br>
-  <span class="pub-coauthors">with Femida Handy, Ram Cnaan, Dabin Choi, and Alisa Ferris</span><br>
+  <span class="pub-coauthors">with Femida Handy, Ram Cnaan, Daniel Choi, and Anna Ferris</span><br>
   <span class="pub-venue">Nonprofit Policy Forum,</span> <span class="pub-year">2025.</span><br>
   <span class="pub-links">
     <a href="https://doi.org/10.1515/npf-2024-0051">Journal Webpage</a>
@@ -111,7 +111,7 @@ author_profile: true
 
 <li>
   <span class="pub-title">Who Volunteers at Refugee and Immigrant Nonprofits? Two Studies Exploring Volunteering at Nonprofits Serving Refugees and Immigrants</span><br>
-  <span class="pub-coauthors">with Alisa Ferris, Ram Cnaan, Dabin Choi, and Femida Handy</span><br>
+  <span class="pub-coauthors">with Anna Ferris, Ram Cnaan, Daniel Choi, and Femida Handy</span><br>
   <span class="pub-venue">Nonprofit Policy Forum,</span> <span class="pub-year">2024, 16(2): 305–332.</span><br>
   <span class="pub-links">
     <a href="https://doi.org/10.1515/npf-2023-0066">Journal Webpage</a>
@@ -129,7 +129,7 @@ author_profile: true
 
 <li>
   <span class="pub-title">The Implications of the COVID-19 Pandemic on Recruitment and Retention of Volunteers and Donors in the US</span><br>
-  <span class="pub-coauthors">with Dabin Choi, Alisa Ferris, Ram A. Cnaan, and Femida Handy</span><br>
+  <span class="pub-coauthors">with Daniel Choi, Anna Ferris, Ram A. Cnaan, and Femida Handy</span><br>
   <span class="pub-venue">Human Service Organizations: Management, Leadership & Governance,</span> <span class="pub-year">2023, 48(3), 340-354.</span><br>
   <span class="pub-links">
     <a href="https://doi.org/10.1080/23303131.2023.2232844">Journal Webpage</a>
