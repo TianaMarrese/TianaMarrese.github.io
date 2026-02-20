@@ -66,12 +66,20 @@ author_profile: true
 
 <ul class="pub-list">
 
+<h2>Refereed Journal Articles</h2>
+
 <li>
-  <span class="pub-title">Volunteering Under Crisis: How Resource Perceptions Relate to Formal and Informal Civic Participation Before and During COVID-19</span><br>
-  <span class="pub-coauthors">with Femida Handy, Ram Cnaan, Dabin Choi, and Alisa Ferris</span><br>
-  <span class="pub-venue">Nonprofit Policy Forum,</span> <span class="pub-year">2025.</span><br>
+  <span class="pub-title">Who participates where? Civic participation in voluntary sector organizations in the advanced industrial democracies</span><br>
+  <span class="pub-coauthors">with Anthony Sealey and Femida Handy</span><br>
+  <span class="pub-venue">Comparative Sociology,</span> <span class="pub-year">Forthcoming, 2026.</span>
+</li>
+
+<li>
+  <span class="pub-title">Continuity and Change: Students' Environmental Practices from Home to Campus</span><br>
+  <span class="pub-coauthors">with Alex Venth, A. Stefanie Ruiz, and Femida Handy</span><br>
+  <span class="pub-venue">Journal of Environmental Education,</span> <span class="pub-year">2026.</span><br>
   <span class="pub-links">
-    <a href="https://doi.org/10.1515/npf-2024-0051">Journal Webpage</a>
+    <a href="https://doi.org/10.1080/00958964.2026.2631983">Journal Webpage</a>
   </span>
 </li>
 
@@ -79,6 +87,27 @@ author_profile: true
   <span class="pub-title">From Service to Sector: Understanding Pathways into Nonprofit and Public Sector Employment</span><br>
   <span class="pub-coauthors">with Femida Handy</span><br>
   <span class="pub-venue">Nonprofit and Voluntary Sector Quarterly,</span> <span class="pub-year">2025.</span>
+    <span class="pub-links">
+    <a href="https://doi.org/10.1177/08997640251386741">Journal Webpage</a>
+  </span>
+</li>
+
+<li>
+  <span class="pub-title">Revisiting the Religion and Generosity Relationship: Takeaways from the COVID-19 Pandemic</span><br>
+  <span class="pub-coauthors">with Daniel Choi, Anna Ferris, Ram Cnaan, and Femida Handy</span><br>
+  <span class="pub-venue">Social Compass,</span> <span class="pub-year">2025, 72(4), 551-572.</span><br>
+  <span class="pub-links">
+    <a href="https://doi.org/10.1177/00377686251387999">Journal Webpage</a>
+  </span>
+</li>
+
+<li>
+  <span class="pub-title">Volunteering Under Crisis: How Resource Perceptions Relate to Formal and Informal Civic Participation Before and During COVID-19</span><br>
+  <span class="pub-coauthors">with Femida Handy, Ram Cnaan, Dabin Choi, and Alisa Ferris</span><br>
+  <span class="pub-venue">Nonprofit Policy Forum,</span> <span class="pub-year">2025.</span><br>
+  <span class="pub-links">
+    <a href="https://doi.org/10.1515/npf-2024-0051">Journal Webpage</a>
+  </span>
 </li>
 
 <li>
@@ -93,7 +122,7 @@ author_profile: true
 <li>
   <span class="pub-title">Intergenerational Transmission of Pro-Environmental Behaviors: Do Grandparents' Environmental Behaviors Influence Grandchildren?</span><br>
   <span class="pub-coauthors">with Itay Greenspan, Tally Katz-Gerro, and Femida Handy</span><br>
-  <span class="pub-venue">Sociological Spectrum,</span> <span class="pub-year">2023, 44(1): 1–15.</span><br>
+  <span class="pub-venue">Sociological Spectrum,</span> <span class="pub-year">2023, 44(1), 1-15.</span><br>
   <span class="pub-links">
     <a href="https://doi.org/10.1080/02732173.2023.2274021">Journal Webpage</a>
   </span>
@@ -102,18 +131,36 @@ author_profile: true
 <li>
   <span class="pub-title">The Implications of the COVID-19 Pandemic on Recruitment and Retention of Volunteers and Donors in the US</span><br>
   <span class="pub-coauthors">with Dabin Choi, Alisa Ferris, Ram A. Cnaan, and Femida Handy</span><br>
-  <span class="pub-venue">Human Service Organizations: Management, Leadership & Governance,</span> <span class="pub-year">2023, 1–15.</span><br>
+  <span class="pub-venue">Human Service Organizations: Management, Leadership & Governance,</span> <span class="pub-year">2023, 48(3), 340-354.</span><br>
   <span class="pub-links">
     <a href="https://doi.org/10.1080/23303131.2023.2232844">Journal Webpage</a>
   </span>
 </li>
 
+<h2>Research Reports, Book Chapters, and Other Material </h2>
+
+<li>
+  <span class="pub-title">Book Chapter: Human Resource Management in Social Enterprises</span><br>
+  <span class="pub-venue">Encyclopedia of Social Enterprise,</span> <span class="pub-year">Forthcoming.</span>
+</li>
+
+
+<li>
+  <span class="pub-title">Generosity trends and impacts: Before and during the COVID-10 pandemic in the USA</span><br>
+  <span class="pub-venue"> Generosity Commission, Giving USA,</span> <span class="pub-year">2022.</span><br>
+  <span class="pub-links">
+    <a href="https://sp2.upenn.edu/wp-content/uploads/2014/07/Generosity-Trends-and-Impacts.pdf">Journal Webpage</a>
+  </span>
+</li>
+
 <li>
   <span class="pub-title">Book Review: The Intersector: How the Public, Nonprofit, and Private Sectors Can Address America's Challenges</span><br>
-  <span class="pub-venue">Nonprofit and Voluntary Sector Quarterly,</span> <span class="pub-year">2023, 52(4): 1134–1137.</span><br>
+  <span class="pub-venue">Nonprofit and Voluntary Sector Quarterly,</span> <span class="pub-year">2023.</span><br>
   <span class="pub-links">
     <a href="https://doi.org/10.1177/08997640231158587">Journal Webpage</a>
   </span>
 </li>
+
+
 
 </ul>
