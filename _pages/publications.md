@@ -76,10 +76,7 @@ author_profile: true
 <li>
   <span class="pub-title">Continuity and Change: Students' Environmental Practices from Home to Campus</span><br>
   <span class="pub-coauthors">with Alex Venth, A. Stefanie Ruiz, and Femida Handy</span><br>
-  <span class="pub-venue">Journal of Environmental Education,</span> <span class="pub-year">2026.</span><br>
-  <span class="pub-links">
-    <a href="https://doi.org/10.1080/00958964.2026.2631983">Journal Webpage</a>
-  </span>
+  <span class="pub-venue">Journal of Environmental Education,</span> <span class="pub-year">Forthcoming.</span><br>
 </li>
 
 <li>
