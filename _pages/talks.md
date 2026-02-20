@@ -96,17 +96,4 @@ author_profile: true
 
 </ul>
 
-<h2>Reports</h2>
 
-<ul class="pub-list">
-
-<li>
-  <span class="pub-title">Generosity Trends and Impacts: Before and During the COVID-19 Pandemic in the USA</span><br>
-  <span class="pub-coauthors">with Ram Cnaan, Femida Handy, Daniel Choi, and Anna Ferris</span><br>
-  <span class="pub-venue">Generosity Commission, Giving USA,</span> <span class="pub-year">August 2022.</span><br>
-  <span class="pub-links">
-    <a href="https://sp2.upenn.edu/wp-content/uploads/2014/07/Generosity-Trends-and-Impacts.pdf">Full Report</a>
-  </span>
-</li>
-
-</ul>
