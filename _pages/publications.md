@@ -18,12 +18,12 @@ author_profile: true
 }
 
 .pub-title {
-  font-weight: bold;
+  font-style: normal;
   font-size: 1.05em;
 }
 
 .pub-title a {
-  color: #333;
+  color: #2a7ae2;
   text-decoration: none;
 }
 
