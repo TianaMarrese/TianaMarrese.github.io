@@ -23,7 +23,7 @@ author_profile: true
 }
 
 .pub-title a {
-  color: #2a7ae2;
+  color: #52adc8;
   text-decoration: none;
 }
 
@@ -45,7 +45,7 @@ author_profile: true
 }
 
 .pub-links a {
-  color: #2a7ae2;
+  color: #52adc8;
   text-decoration: none;
   font-size: 0.95em;
 }
