@@ -70,7 +70,7 @@ author_profile: true
 <li>
   <span class="pub-title">Who participates where? Civic participation in voluntary sector organizations in the advanced industrial democracies</span><br>
   <span class="pub-coauthors">with Anthony Sealey and Femida Handy</span><br>
-  <span class="pub-venue">Comparative Sociology,</span> <span class="pub-year">2026, Forthcoming.</span>
+  <span class="pub-venue">Comparative Sociology,</span> <span class="pub-year"> Forthcoming.</span>
 </li>
 
 <li>
