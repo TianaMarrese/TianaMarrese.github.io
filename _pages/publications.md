@@ -93,7 +93,7 @@ author_profile: true
 
 <li>
   <span class="pub-title">Revisiting the Religion and Generosity Relationship: Takeaways from the COVID-19 Pandemic</span><br>
-  <span class="pub-coauthors">with Daniel Choi, Anna Ferris, Ram Cnaan, and Femida Handy</span><br>
+  <span class="pub-coauthors">with Daniel Choi, Anna Ferris, Ram A. Cnaan, and Femida Handy</span><br>
   <span class="pub-venue">Social Compass,</span> <span class="pub-year">2025, 72(4), 551-572.</span><br>
   <span class="pub-links">
     <a href="https://doi.org/10.1177/00377686251387999">Journal Webpage</a>
@@ -102,7 +102,7 @@ author_profile: true
 
 <li>
   <span class="pub-title">Volunteering Under Crisis: How Resource Perceptions Relate to Formal and Informal Civic Participation Before and During COVID-19</span><br>
-  <span class="pub-coauthors">with Femida Handy, Ram Cnaan, Daniel Choi, and Anna Ferris</span><br>
+  <span class="pub-coauthors">with Femida Handy, Ram A. Cnaan, Daniel Choi, and Anna Ferris</span><br>
   <span class="pub-venue">Nonprofit Policy Forum,</span> <span class="pub-year">2025.</span><br>
   <span class="pub-links">
     <a href="https://doi.org/10.1515/npf-2024-0051">Journal Webpage</a>
@@ -111,7 +111,7 @@ author_profile: true
 
 <li>
   <span class="pub-title">Who Volunteers at Refugee and Immigrant Nonprofits? Two Studies Exploring Volunteering at Nonprofits Serving Refugees and Immigrants</span><br>
-  <span class="pub-coauthors">with Anna Ferris, Ram Cnaan, Daniel Choi, and Femida Handy</span><br>
+  <span class="pub-coauthors">with Anna Ferris, Ram A. Cnaan, Daniel Choi, and Femida Handy</span><br>
   <span class="pub-venue">Nonprofit Policy Forum,</span> <span class="pub-year">2024, 16(2): 305–332.</span><br>
   <span class="pub-links">
     <a href="https://doi.org/10.1515/npf-2023-0066">Journal Webpage</a>
