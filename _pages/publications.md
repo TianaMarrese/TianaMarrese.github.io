@@ -68,13 +68,13 @@ author_profile: true
 <h2>Refereed Journal Articles</h2>
 
 <li>
-  <span class="pub-title">Who participates where? Civic participation in voluntary sector organizations in the advanced industrial democracies</span><br>
+  <span class="pub-title"><a href="https://tianamarrese.github.io/publications/">Who participates where? Civic participation in voluntary sector organizations in the advanced industrial democracies</a></span><br>
   <span class="pub-coauthors">with Anthony Sealey and Femida Handy</span><br>
   <span class="pub-venue">Comparative Sociology,</span> <span class="pub-year"> Forthcoming.</span>
 </li>
 
 <li>
-  <span class="pub-title">Continuity and Change: Students' Environmental Practices from Home to Campus</span><br>
+  <span class="pub-title"><a href="/https://tianamarrese.github.io/publications/">Continuity and Change: Students' Environmental Practices from Home to Campus</a></span><br>
   <span class="pub-coauthors">with Alex Venth, A. Stefanie Ruiz, and Femida Handy</span><br>
   <span class="pub-venue">Journal of Environmental Education,</span> <span class="pub-year">Forthcoming.</span><br>
 </li>
