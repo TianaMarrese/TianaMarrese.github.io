@@ -73,11 +73,18 @@ author_profile: true
 <ul class="pub-list">
 
 <li>
+  <span class="pub-title">Gathering and Analyzing Publicly-Available Data</span><br>
+  <span class="pub-venue">SPAA Speaker Series,</span> <span class="pub-location">Rutgers, School of Public Affairs and Administration,</span> <span class="pub-date">February 2026.</span><br>
+  <span class="pub-links">
+    <a href="/files/Gathering and Analyzing Publicly-Available Data.pdf">Slides</a>
+  </span>
+</li>
+
+<li>
   <span class="pub-title">Data Science and Public Administration</span><br>
   <span class="pub-venue">Winter Training Program for Central Police University of Taiwan,</span> <span class="pub-location">Rutgers, School of Public Affairs and Administration,</span> <span class="pub-date">January 2026.</span><br>
   <span class="pub-links">
-    <a href="https://tianamarrese.github.io/files/glass-cliff-workflow_final.html">Case Study</a>
-    <a href="https://nonprofit-open-data-collective.github.io/index">Nonprofit Open Data Collective</a>
+    <a href="/files/Data Science and PA_clean.pdf">Slides</a>
   </span>
 </li>
 
