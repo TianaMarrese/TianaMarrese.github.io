@@ -41,8 +41,12 @@ author_profile: true
   color: #333;
 }
 
-.pub-year {
-  font-style: normal;
+.pub-location {
+  color: #333;
+}
+
+.pub-date {
+  color: #333;
 }
 
 .pub-links a {
@@ -70,7 +74,7 @@ author_profile: true
 
 <li>
   <span class="pub-title">Professional Development Workshop: Advancing Data Infrastructure for the Nonprofit Sector, A Tour of New Resources and Tools</span><br>
-  <span class="pub-venue">ARNOVA 2024,</span> <span class="pub-year">Washington, D.C., November 2024.</span><br>
+  <span class="pub-venue">ARNOVA 2024,</span> <span class="pub-location">Washington, D.C.,</span> <span class="pub-date">November 2024.</span><br>
   <span class="pub-links">
     <a href="https://tianamarrese.github.io/files/glass-cliff-workflow_final.html">Case Study</a>
     <a href="https://nonprofit-open-data-collective.github.io/index">Nonprofit Open Data Collective</a>
@@ -80,7 +84,7 @@ author_profile: true
 <li>
   <span class="pub-title">Volunteering as a Pathway to Nonprofit and Public Sector Employment: An Analysis of Millennials</span><br>
   <span class="pub-coauthors">with Femida Handy</span><br>
-  <span class="pub-venue">University of Maryland, School of Public Policy, Research Seminar Series,</span> <span class="pub-year">March 2024.</span><br>
+  <span class="pub-venue">Research Seminar Series,</span> <span class="pub-location">University of Maryland, School of Public Policy,</span> <span class="pub-date">March 2024.</span><br>
   <span class="pub-links">
     <a href="https://tianamarrese.github.io/files/Volunteering_as_Pathway.pdf">Slides</a>
   </span>
@@ -88,7 +92,7 @@ author_profile: true
 
 <li>
   <span class="pub-title">Nonprofit Wage Disparity and the Call for Accessible Childcare</span><br>
-  <span class="pub-venue">Nonprofit Policy Forum, 12th Symposium on Public Policy for Nonprofits,</span> <span class="pub-year">September 2023.</span><br>
+    <span class="pub-venue">12th Symposium on Public Policy for Nonprofits,</span> <span class="pub-location">Online,</span> <span class="pub-date">September 2023.</span><br>
   <span class="pub-links">
     <a href="https://www.arnova.org/symposium-2023/">Symposium Info</a>
   </span>
