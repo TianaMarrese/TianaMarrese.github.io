@@ -83,7 +83,7 @@ author_profile: true
 
 <li>
   <span class="pub-title">Professional Development Workshop: Advancing Data Infrastructure for the Nonprofit Sector, A Tour of New Resources and Tools</span><br>
-  <span class="pub-venue">ARNOVA 2024,</span> <span class="pub-location">Washington, D.C.,</span> <span class="pub-date">November 2024.</span><br>
+  <span class="pub-venue">ARNOVA,</span> <span class="pub-location">Washington, D.C.,</span> <span class="pub-date">November 2024.</span><br>
   <span class="pub-links">
     <a href="https://tianamarrese.github.io/files/glass-cliff-workflow_final.html">Case Study</a>
     <a href="https://nonprofit-open-data-collective.github.io/index">Nonprofit Open Data Collective</a>
