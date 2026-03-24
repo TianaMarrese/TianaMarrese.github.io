@@ -86,7 +86,7 @@ author_profile: true
 <li>
   <span class="pub-title"><a href="/files/service_to_sector.pdf">From Service to Sector: Understanding Pathways into Nonprofit and Public Sector Employment</a></span><br>
   <span class="pub-coauthors">with Femida Handy</span><br>
-  <span class="pub-venue">Nonprofit and Voluntary Sector Quarterly,</span> <span class="pub-year">2025.</span><br>
+  <span class="pub-venue">Nonprofit and Voluntary Sector Quarterly,</span> <span class="pub-year"> 2025.</span><br>
     <span class="pub-links">
     <a href="https://doi.org/10.1177/08997640251386741">Journal Webpage</a>
   </span>
@@ -95,7 +95,7 @@ author_profile: true
 <li>
   <span class="pub-title"><a href="/files/revisiting_religion_nexus.pdf">Revisiting the Religion and Generosity Relationship: Takeaways from the COVID-19 Pandemic</a></span><br>
   <span class="pub-coauthors">with Daniel Choi, Anna Ferris, Ram A. Cnaan, and Femida Handy</span><br>
-  <span class="pub-venue">Social Compass,</span> <span class="pub-year">2025, 72(4), 551-572.</span><br>
+  <span class="pub-venue">Social Compass,</span> <span class="pub-year"> 2025, 72(4), 551-572.</span><br>
   <span class="pub-links">
     <a href="https://doi.org/10.1177/00377686251387999">Journal Webpage</a>
   </span>
