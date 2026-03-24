@@ -74,7 +74,7 @@ author_profile: true
 </li>
 
 <li>
-  <span class="pub-title"><a href="https://tianamarrese.github.io/publications/">Who participates where? Civic participation in voluntary sector organizations in the advanced industrial democracies</a></span><br>
+  <span class="pub-title"><a href="/files/SealeyMarreseHandy-WhoParticipatesWhere-2026.pdf">Who participates where? Civic participation in voluntary sector organizations in the advanced industrial democracies</a></span><br>
   <span class="pub-coauthors">with Anthony Sealey and Femida Handy</span><br>
   <span class="pub-venue">Comparative Sociology,</span> <span class="pub-year"> 2026, 25(1), 157-193. </span><br>
     <span class="pub-links">
