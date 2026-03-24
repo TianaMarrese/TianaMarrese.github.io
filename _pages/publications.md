@@ -68,19 +68,18 @@ author_profile: true
 <h2>Refereed Journal Articles</h2>
 
 <li>
+  <span class="pub-title"><a href="https://tianamarrese.github.io/publications/">Continuity and Change: Students' Environmental Practices from Home to Campus</a></span><br>
+  <span class="pub-coauthors">with Alex Venth, A. Stefanie Ruiz, and Femida Handy</span><br>
+  <span class="pub-venue">Journal of Environmental Education,</span> <span class="pub-year">Forthcoming.</span><br>
+</li>
+
+<li>
   <span class="pub-title"><a href="https://tianamarrese.github.io/publications/">Who participates where? Civic participation in voluntary sector organizations in the advanced industrial democracies</a></span><br>
   <span class="pub-coauthors">with Anthony Sealey and Femida Handy</span><br>
   <span class="pub-venue">Comparative Sociology,</span> <span class="pub-year"> 2026, 25(1), 157-193. </span><br>
     <span class="pub-links">
     <a href= "https://brill.com/view/journals/coso/25/1/article-p157_6.xml">Journal Webpage</a>
   </span>
-  
-</li>
-
-<li>
-  <span class="pub-title"><a href="https://tianamarrese.github.io/publications/">Continuity and Change: Students' Environmental Practices from Home to Campus</a></span><br>
-  <span class="pub-coauthors">with Alex Venth, A. Stefanie Ruiz, and Femida Handy</span><br>
-  <span class="pub-venue">Journal of Environmental Education,</span> <span class="pub-year">Forthcoming.</span><br>
 </li>
 
 <li>
