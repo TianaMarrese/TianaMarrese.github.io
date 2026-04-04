@@ -68,9 +68,12 @@ author_profile: true
 <h2>Refereed Journal Articles</h2>
 
 <li>
-  <span class="pub-title"><a href="https://tianamarrese.github.io/publications/">Continuity and Change: Students' Environmental Practices from Home to Campus</a></span><br>
+  <span class="pub-title"><a href="/files/Disrupted_sustainability.pdf">Continuity and Change: Students' Environmental Practices from Home to Campus</a></span><br>
   <span class="pub-coauthors">with Alex Venth, A. Stefanie Ruiz, and Femida Handy</span><br>
-  <span class="pub-venue">Journal of Environmental Education,</span> <span class="pub-year">Forthcoming.</span><br>
+  <span class="pub-venue">Journal of Environmental Education,</span> <span class="pub-year">2026, 1-12.</span><br>
+  <span class="pub-links">
+    <a href= "https://doi.org/10.1080/00958964.2026.2631983">Journal Webpage</a>
+  </span>
 </li>
 
 <li>
