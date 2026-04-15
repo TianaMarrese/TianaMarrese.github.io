@@ -71,8 +71,11 @@ author_profile: true
   <span class="pub-title"><a href="/files/SealeyMarreseHandy-WhoParticipatesWhere-2026.pdf">Who participates where? Civic participation in voluntary sector organizations in the advanced industrial democracies</a></span><br>
   <span class="pub-coauthors">with Anthony Sealey and Femida Handy</span><br>
   <span class="pub-venue">Comparative Sociology,</span> <span class="pub-year"> 2026, 25(1), 157-193. </span><br>
-    <span class="pub-links">
+  <span class="pub-links">
     <a href= "https://brill.com/view/journals/coso/25/1/article-p157_6.xml">Journal Webpage</a>
+  </span><br>
+  <span class="pub-links">
+    <a href= "https://www.openicpsr.org/openicpsr/project/244983/version/V1/view">Replication Code</a>
   </span>
 </li>
 
