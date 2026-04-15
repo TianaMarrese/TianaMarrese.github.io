@@ -72,10 +72,10 @@ author_profile: true
   <span class="pub-coauthors">with Anthony Sealey and Femida Handy</span><br>
   <span class="pub-venue">Comparative Sociology,</span> <span class="pub-year"> 2026, 25(1), 157-193. </span><br>
   <span class="pub-links">
-    <a href= "https://brill.com/view/journals/coso/25/1/article-p157_6.xml">Journal Webpage</a>
-  </span><br>
+    <a href= "https://brill.com/view/journals/coso/25/1/article-p157_6.xml">[Journal Webpage]</a>
+  </span>
   <span class="pub-links">
-    <a href= "https://www.openicpsr.org/openicpsr/project/244983/version/V1/view">Replication Code</a>
+    <a href= "https://www.openicpsr.org/openicpsr/project/244983/version/V1/view">[Replication Code]</a>
   </span>
 </li>
 
@@ -84,7 +84,7 @@ author_profile: true
   <span class="pub-coauthors">with Alex Venth, A. Stefanie Ruiz, and Femida Handy</span><br>
   <span class="pub-venue">Journal of Environmental Education,</span> <span class="pub-year">2026, 1-12.</span><br>
   <span class="pub-links">
-    <a href= "https://doi.org/10.1080/00958964.2026.2631983">Journal Webpage</a>
+    <a href= "https://doi.org/10.1080/00958964.2026.2631983">[Journal Webpage]</a>
   </span>
 </li>
 
