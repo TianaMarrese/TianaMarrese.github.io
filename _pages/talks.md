@@ -76,7 +76,7 @@ author_profile: true
   <span class="pub-title">A Brief Introduction to Nonprofit Data</span><br>
   <span class="pub-venue">Center for Nonprofit Leadership and Development Video Series,</span> <span class="pub-location">Rutgers, School of Public Affairs and Administration,</span> <span class="pub-date">May 2026.</span><br>
   <span class="pub-links">
-    <a href="/files/Gathering and Analyzing Publicly-Available Data.pdf">Video</a>
+    <a href="https://www.youtube.com/watch?v=dYVeReP53hs">Video</a>
   </span>
 </li>
 
@@ -84,7 +84,7 @@ author_profile: true
   <span class="pub-title">Gathering and Analyzing Publicly-Available Data</span><br>
   <span class="pub-venue">SPAA Speaker Series,</span> <span class="pub-location">Rutgers, School of Public Affairs and Administration,</span> <span class="pub-date">February 2026.</span><br>
   <span class="pub-links">
-    <a href="https://www.youtube.com/watch?v=dYVeReP53hs">Slides</a>
+    <a href="/files/Gathering and Analyzing Publicly-Available Data.pdf">Slides</a>
   </span>
 </li>
 
