@@ -35,7 +35,6 @@ Cunningham, Scott. (2026). MixtapeTools. Github. https://github.com/scunning1975
 
 I do not substantially use AI to inform my teaching material. Course content is derived from a number of reputable resources that I curate including textbooks, news articles, government communication, and open-source outlets. The structure and substance of my lectures are not informed by AI, unless otherwise stated. I cite AI usage just like I cite other sources. In the future, I may ask AI to reformat or bolster my slides, but I currently do not see any need. I assume responsibility for the final content delivered by my teaching.  
 <br>
-<br>
 As an instructor, I accept the responsibility of creating meaningful lectures that hold relevance for my students. This includes thoughtful material and exercises that support the skills and knowledge needed in our rapidly changing world. Concrete steps to incorporate AI-inclusive lessons in my classroom include mixed-media projects that focus on bridging the gap between information acquisition and communication. Additionally, I prioritize components of the classroom experience that cannot be fully replicated through generative AI including peer interactions and instructor-provided feedback. 
 
 
