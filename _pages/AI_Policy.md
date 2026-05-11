@@ -24,9 +24,11 @@ Beyond data analysis, I use AI to support my ideation and writing processes. In 
 <br>
 <br>
 I use AI with a few other assorted research tasks, and some of these areas, admittedly, require further personal reflection. Given the existence of enough original content written by myself, I will co-create with AI to finalize certain deliverables including conference abstracts and research presentations. Beyond these, I have also utilized AI to broadly summarize existing literature or curate a research report that serves as a starting point for my project. These last two components give me slight pause even though I do not include any section of this content in my final products. This hesitancy is driven by two main components. First, allowing AI to inform my initial thinking, even if this information (in the form of a literature review or report) is taken as one of many sources, suggests that any biases that come from such tools can be present from the very first steps. And such biases are harder to verify than lines of analytic code. Second, I am unclear on the implications of feeding resources into AI. I often ask AI to be aware of 4-5 main articles that are driving my research during the project collaboration. I am not sure whether there are important ethical or logistical considerations when utilizing AI tools to pick up on themes throughout multiple papers. My ongoing task is to continue to wrestle with these questions. 
-
+<br>
+<br>
 Cunningham, Scott. (2026). MixtapeTools. Github. https://github.com/scunning1975/MixtapeTools/tree/main
-
+<br>
+<br>
 
 </details>
 
@@ -36,7 +38,8 @@ Cunningham, Scott. (2026). MixtapeTools. Github. https://github.com/scunning1975
 I do not substantially use AI to inform my teaching material. Course content is derived from a number of reputable resources that I curate including textbooks, news articles, government communication, and open-source outlets. The structure and substance of my lectures are not informed by AI, unless otherwise stated. I cite AI usage just like I cite other sources. In the future, I may ask AI to reformat or bolster my slides, but I currently do not see any need. I assume responsibility for the final content delivered by my teaching.  
 <br>
 As an instructor, I accept the responsibility of creating meaningful lectures that hold relevance for my students. This includes thoughtful material and exercises that support the skills and knowledge needed in our rapidly changing world. Concrete steps to incorporate AI-inclusive lessons in my classroom include mixed-media projects that focus on bridging the gap between information acquisition and communication. Additionally, I prioritize components of the classroom experience that cannot be fully replicated through generative AI including peer interactions and instructor-provided feedback. 
-
+<br>
+<br>
 
 </details>
 
@@ -44,6 +47,8 @@ As an instructor, I accept the responsibility of creating meaningful lectures th
 <summary><strong>Section 3: For Revisions and Grading</strong></summary>
 
 I do not substantially use AI for any tasks that require my feedback. Since AI tools are widely available, I do not see value in combining my personal thoughts with generative input; I leave the generative input to be acquired by the original author. Revisions and grading reflect my personal responses to the submitted work without the additional influence of AI. The only two ways that I use AI during these tasks are to (1) suggest ways for me to communicate my fully formed idea in a clear, context-appropriate manner and (2) provide resources that can further inform my response. 
+<br>
+<br>
 
 </details>
 
@@ -51,9 +56,11 @@ I do not substantially use AI for any tasks that require my feedback. Since AI t
 <summary><strong>Section 4: For Student Expectations </strong></summary>
 
 Classrooms remain a stronghold for developing one’s critical thinking and knowledge acquisition. This unique context necessitates careful thought when incorporating generative AI. I draw inspiration from the AI Assessment Scale to structure my expectations of students. In most cases, I do not police or ban the use of these tools, rather, I largely promote a “level 3” approach. At this level, AI may be used to help complete the task, including idea generation, drafting, feedback, and refinement. Students should critically evaluate and modify the AI suggested outputs, demonstrating their understanding. Students are required to cite their AI usage following APA style guidelines (Perkins et al., 2024). Students are also encouraged to make initial attempts of tasks independently from AI, bolstering their ability to understand and navigate situations without assistance. 
-
+<br>
+<br>
 Perkins, Furze, Roe & MacVaugh (2024). The AI Assessment Scale.
- 
+ <br>
+<br>
 
 
 </details>
@@ -62,6 +69,7 @@ Perkins, Furze, Roe & MacVaugh (2024). The AI Assessment Scale.
 <summary><strong>Section 5: Miscellaneous </strong></summary>
 
 I will continue to utilize AI to help supplement some of my professional tasks and obligations. For example, I work with AI to write html code necessary to update my website since I am not fluent in this language. I also co-create with AI to produce other content including event graphics and grant material. I assume all responsibility for the final product. 
-
+<br>
+<br>
 
 </details>
