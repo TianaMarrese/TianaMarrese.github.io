@@ -95,6 +95,9 @@ author_profile: true
     <span class="pub-links">
     <a href="https://doi.org/10.1177/08997640251386741">Journal Webpage</a>
   </span>
+  <span class="pub-links">
+    <a href= "https://www.openicpsr.org/openicpsr/project/247467/version/V1/view">Replication Code</a>
+  </span>
 </li>
 
 <li>
