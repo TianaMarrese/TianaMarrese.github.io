@@ -68,6 +68,18 @@ author_profile: true
 <h2>Refereed Journal Articles</h2>
 
 <li>
+  <span class="pub-title"><a href="/files/MarreseLiuHandy_GenderedPath_2026.pdf">The Gendered Path of Least Resistance: First Entry and Exit Behaviors of Public and Nonprofit Employees</a></span><br>
+  <span class="pub-coauthors">with Ying Liu and Femida Handy</span><br>
+  <span class="pub-venue">Public Administration Review,</span> <span class="pub-year"> 2026, 1-15. </span><br>
+  <span class="pub-links">
+    <a href= "https://onlinelibrary.wiley.com/doi/10.1111/puar.70181">Journal Webpage</a>
+  </span>
+  <span class="pub-links">
+    <a href= "https://www.openicpsr.org/openicpsr/project/247440/version/V1/view">Replication Code</a>
+  </span>
+</li>
+
+<li>
   <span class="pub-title"><a href="/files/SealeyMarreseHandy-WhoParticipatesWhere-2026.pdf">Who participates where? Civic participation in voluntary sector organizations in the advanced industrial democracies</a></span><br>
   <span class="pub-coauthors">with Anthony Sealey and Femida Handy</span><br>
   <span class="pub-venue">Comparative Sociology,</span> <span class="pub-year"> 2026, 25(1), 157-193. </span><br>
