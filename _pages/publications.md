@@ -77,6 +77,9 @@ author_profile: true
   <span class="pub-links">
     <a href= "https://www.openicpsr.org/openicpsr/project/247440/version/V1/view">Replication Code</a>
   </span>
+    <span class="pub-links">
+    <a href="/files/Rutgers_SPAA_Policy_Brief.pdf">Policy Brief</a>
+  </span>
 </li>
 
 <li>
